@@ -3,7 +3,7 @@ Airbnb is an online marketplace that connects people who want to rent out their 
 
 ## Project Link
 
-[AirBnB Impact of Regulations](https://www.kaggle.com/code/deveshchaudhari17/airbnb-project)
+[AirBnB Impact of Regulations_Project](https://www.kaggle.com/code/deveshchaudhari17/airbnb-project)
 
 <img src="Aribnb.image.png" width=1000>
 
